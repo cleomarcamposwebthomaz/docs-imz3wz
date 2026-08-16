@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-m56gwj.indocuan-pro.cfd/sitemap.xml
